@@ -1,5 +1,5 @@
 .idea/*
-.venv
+venv/
 *__pychache__/
 .vscode/
 .pyproject.toml
