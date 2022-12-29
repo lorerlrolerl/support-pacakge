@@ -1,5 +1,10 @@
+.idea/*
 .venv
-*__pychache__
+*__pychache__/
+.vscode/
+.pyproject.toml
+.flake8/
+.env
 *.pyc
 *egg-info*
 
